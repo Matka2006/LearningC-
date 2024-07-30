@@ -1,0 +1,15 @@
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/bin/Debug/net7.0/MyFirstApp
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/bin/Debug/net7.0/MyFirstApp.deps.json
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/bin/Debug/net7.0/MyFirstApp.runtimeconfig.json
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/bin/Debug/net7.0/MyFirstApp.dll
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/bin/Debug/net7.0/MyFirstApp.pdb
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.csproj.AssemblyReference.cache
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.AssemblyInfo.cs
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.dll
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/refint/MyFirstApp.dll
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.pdb
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/MyFirstApp.genruntimeconfig.cache
+/Users/matvejtatarcenko/Projects/MyFirstApp/MyFirstApp/obj/Debug/net7.0/ref/MyFirstApp.dll
