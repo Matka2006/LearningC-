@@ -4,20 +4,25 @@
     {
         private float _health;
         private float _armor;
+        private float _damage;
 
         private Helm _helm;
         private Shell _shell;
         private Boots _boots;
         private Weapon _weapon;
 
-        Weapon Damage = new Weapon(1f, 10f, "Weapon");
+        Weapon weapon = new Weapon(1f, 10f, "Weapon");
 
         public string Name { get; }
         public float Health => _health;
+        public float Damage { get { return 5; } set { _damage = value; } }
 
         public float Armor
         {
-            get { return (float)Math.Round(_armor, 2); }
+            get
+            {
+                return (float)Math.Round(_armor, 2);
+            }
             set
             {
                 if (value >= 0 || value <= 1)
