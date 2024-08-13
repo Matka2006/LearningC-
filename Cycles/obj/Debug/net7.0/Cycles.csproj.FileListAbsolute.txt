@@ -1,0 +1,15 @@
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/bin/Debug/net7.0/Cycles
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/bin/Debug/net7.0/Cycles.deps.json
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/bin/Debug/net7.0/Cycles.runtimeconfig.json
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/bin/Debug/net7.0/Cycles.dll
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/bin/Debug/net7.0/Cycles.pdb
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.csproj.AssemblyReference.cache
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.AssemblyInfoInputs.cache
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.AssemblyInfo.cs
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.csproj.CoreCompileInputs.cache
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.dll
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/refint/Cycles.dll
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.pdb
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/Cycles.genruntimeconfig.cache
+/Users/matvejtatarcenko/Projects/Cycles/Cycles/obj/Debug/net7.0/ref/Cycles.dll
