@@ -1,0 +1,15 @@
+/Users/matvejtatarcenko/Projects/Strings/Strings/bin/Debug/net7.0/Strings
+/Users/matvejtatarcenko/Projects/Strings/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/matvejtatarcenko/Projects/Strings/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/matvejtatarcenko/Projects/Strings/Strings/bin/Debug/net7.0/Strings.dll
+/Users/matvejtatarcenko/Projects/Strings/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.dll
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/matvejtatarcenko/Projects/Strings/Strings/obj/Debug/net7.0/ref/Strings.dll
