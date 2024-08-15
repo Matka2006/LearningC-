@@ -1,0 +1,15 @@
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/bin/Debug/net7.0/Cillections
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/bin/Debug/net7.0/Cillections.deps.json
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/bin/Debug/net7.0/Cillections.runtimeconfig.json
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/bin/Debug/net7.0/Cillections.dll
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/bin/Debug/net7.0/Cillections.pdb
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.csproj.AssemblyReference.cache
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.AssemblyInfoInputs.cache
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.AssemblyInfo.cs
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.csproj.CoreCompileInputs.cache
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.dll
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/refint/Cillections.dll
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.pdb
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/Cillections.genruntimeconfig.cache
+/Users/matvejtatarcenko/Projects/Cillections/Cillections/obj/Debug/net7.0/ref/Cillections.dll
