@@ -1,0 +1,15 @@
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.csproj.AssemblyReference.cache
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.AssemblyInfoInputs.cache
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.AssemblyInfo.cs
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.csproj.CoreCompileInputs.cache
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/bin/Debug/net7.0/Сlasses
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/bin/Debug/net7.0/Сlasses.deps.json
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/bin/Debug/net7.0/Сlasses.runtimeconfig.json
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/bin/Debug/net7.0/Сlasses.dll
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/bin/Debug/net7.0/Сlasses.pdb
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.dll
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/refint/Сlasses.dll
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.pdb
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/Сlasses.genruntimeconfig.cache
+/Users/matvejtatarcenko/Projects/Сlasses/Сlasses/obj/Debug/net7.0/ref/Сlasses.dll
